@@ -138,7 +138,6 @@ a.head-active:active {text-decoration:none;font-weight:bold;color:#B92819;}
 
 .container {
   position: relative;
-  width: 50%;
 }
 
 .image {
@@ -170,7 +169,7 @@ a.head-active:active {text-decoration:none;font-weight:bold;color:#B92819;}
 }
 
 .text {
-  background-color: #04AA6D;
+  background-color: red;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
